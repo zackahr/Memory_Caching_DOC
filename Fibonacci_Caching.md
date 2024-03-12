@@ -46,5 +46,7 @@ int main() {
 ![TimeDiffrence](TimeDiff.png)
 
 Boom 
-20085 / 0.085867 = 233908
+20085ms / 0.085867ms = 233908
 Much faster.
+
+here [[Fibonacci_Caching_Draw]] the draw of this algorithm .
