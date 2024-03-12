@@ -33,3 +33,6 @@ int main() {
 ```
 
 for example if we toke the normal algorithm of the Fibonacci we would found that for example the number 45 it will take about 20s too execute.
+
+But what if we use Memorization algorithm with the Normal Algorithm Fibonacci.
+[[Fibonacci_Caching]].
